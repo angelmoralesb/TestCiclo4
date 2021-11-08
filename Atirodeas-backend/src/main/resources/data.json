@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "categoria": "Bebidas",
+    "nombre": "Doble anis",
+    "descripcion": "Aguardiente bebida alcohólica actualizado",
+    "precio": 75000,
+    "disponibilidad": true,
+    "cantidad": 20,
+    "fotografia": "https://www.larebajavirtual.com/images/productos/sii/F/300x300/aguardiente_doble_anis-32064-1539190818.png"
+  },
+  {
+    "id": 2,
+    "categoria": "Muebles",
+    "nombre": "Silla",
+    "descripcion": "silla de comedor",
+    "precio": 150000,
+    "disponibilidad": true,
+    "cantidad": 3,
+    "fotografia": "https://pepeganga.vtexassets.com/arquivos/ids/600779-1200-auto?v=637580671371130000&width=1200&height=auto&aspect=true"
+  },
+  {
+    "id": 3,
+    "categoria": "Muebles",
+    "nombre": "Mesa",
+    "descripcion": "mesa de comedor",
+    "precio": 250000,
+    "disponibilidad": true,
+    "cantidad": 13,
+    "fotografia": "https://www.amoblando.co/uploads/amoblando/product_images/186/full/mesa-de-comedor-cris-4-puestos_76hPM.jpg"
+  },
+  {
+    "id": 4,
+    "categoria": "Ropa",
+    "nombre": "Pantalon",
+    "descripcion": "pantalon de tela",
+    "precio": 125000,
+    "disponibilidad": true,
+    "cantidad": 2,
+    "fotografia": "https://media.istockphoto.com/photos/mens-trousers-picture-id510615049"
+  },
+  {
+    "id": 5,
+    "categoria": "Ropa",
+    "nombre": "Camisa",
+    "descripcion": "camisa de tela",
+    "precio": 100000,
+    "disponibilidad": true,
+    "cantidad": 2,
+    "fotografia": "https://m.media-amazon.com/images/I/71U1fmkbiBL._AC_UX569_.jpg"
+  },
+  {
+    "id": 6,
+    "categoria": "Ropa",
+    "nombre": "Medias",
+    "descripcion": "medias de algodón",
+    "precio": 20000,
+    "disponibilidad": true,
+    "cantidad": 10,
+    "fotografia": "https://www.galax.co/wcsstore/CrystalCo_CAT_AS/2021/GLX/ES-CO/Imagenes/Hombres/Medias/Baltimore_X_3_H/566x715/Medias-Hombre-Baltimore-X-3-H-Surtido-8000-Frente-Glx.jpg"
+  },
+  {
+    "id": 7,
+    "categoria": "Muebles",
+    "nombre": "Comedor",
+    "descripcion": "comedor familiar",
+    "precio": 450000,
+    "disponibilidad": true,
+    "cantidad": 5,
+    "fotografia": "https://falabella.scene7.com/is/image/FalabellaCO/16546998_1?wid=1500&hei=1500&qlt=70"
+  },
+  {
+    "id": 8,
+    "categoria": "Cocina",
+    "nombre": "Olla a presión",
+    "descripcion": "olla a presion 2 litro",
+    "precio": 78000,
+    "disponibilidad": true,
+    "cantidad": 30,
+    "fotografia": "https://www.alkosto.com/medias/7705946344005-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wxMDUyODV8aW1hZ2UvanBlZ3xpbWFnZXMvaGUxL2hjYy8xMDU5NDIwNTg1OTg3MC5qcGd8ZWJkZDEzZWM1MTY0YjFhOWVhMTIyY2M0OGZiYjU3YjUwZTIxYTE1MDJkMTgyZTU2YjMwZDYxYzRjOGU1NTNiZQ"
+  },
+  {
+    "id": 9,
+    "categoria": "Cocina",
+    "nombre": "Platos",
+    "descripcion": "platos de comida corona",
+    "precio": 100000,
+    "disponibilidad": true,
+    "cantidad": 8,
+    "fotografia": "https://previews.123rf.com/images/akulamatiau/akulamatiau1401/akulamatiau140100165/24905453-tres-platos-vac%C3%ADos-de-diferentes-tama%C3%B1os-sobre-fondo-blanco.jpg"
+  },
+  {
+    "id": 10,
+    "categoria": "Cocina",
+    "nombre": "Pocillo",
+    "descripcion": "pocillo de muñecos",
+    "precio": 5000,
+    "disponibilidad": true,
+    "cantidad": 1,
+    "fotografia": "https://esferos.com/site/1220-large_default/pocillo-10-oz.jpg"
+  },
+  {
+    "id": 11,
+    "categoria": "Ropa",
+    "nombre": "Saco",
+    "descripcion": "saco de lana",
+    "precio": 200000,
+    "disponibilidad": true,
+    "cantidad": 15,
+    "fotografia": "https://http2.mlstatic.com/D_NQ_NP_2X_849742-MCO42355856777_062020-F.webp"
+  },
+  {
+    "id": 12,
+    "categoria": "Ropa",
+    "nombre": "Chaqueta",
+    "descripcion": "chaqueta de cuero",
+    "precio": 350000,
+    "disponibilidad": true,
+    "cantidad": 3,
+    "fotografia": "https://static.dafiti.com.co/p/frenezi-6606-640739-1-zoom.jpg"
+  },
+  {
+    "id": 13,
+    "categoria": "Tecnologia",
+    "nombre": "Mouse",
+    "descripcion": "mouse profesional",
+    "precio": 52000,
+    "disponibilidad": true,
+    "cantidad": 20,
+    "fotografia": "https://http2.mlstatic.com/D_NQ_NP_2X_718021-MLA45377537507_032021-F.webp"
+  },
+  {
+    "id": 14,
+    "categoria": "Tecnologia",
+    "nombre": "Teclado",
+    "descripcion": "teclado profesional",
+    "precio": 68000,
+    "disponibilidad": true,
+    "cantidad": 100,
+    "fotografia": "https://http2.mlstatic.com/D_NQ_NP_2X_627725-MCO41476280647_042020-F.webp"
+  },
+  {
+    "id": 15,
+    "categoria": "Tecnologia",
+    "nombre": "Portatil",
+    "descripcion": "portatil profesional",
+    "precio": 1500000,
+    "disponibilidad": true,
+    "cantidad": 5,
+    "fotografia": "https://www.lenovo.com/medias/88IPS301421-redot-bob-1.png?context=bWFzdGVyfC9lbWVhL2ltYWdlcy98MTgxNjczfGltYWdlL3BuZ3wvZW1lYS9pbWFnZXMvaGVlL2g3ZC8xMTczNDYxODUzODAxNC5wbmd8ODM2ZTg4ZDhjMGU0Y2NiNjUwNmQzNjk3MmZlNDAwNDBkYjk5OGI0NmY2ZjZiODMwZDBmNjFlYWRhMzhjMWVlMA&w=1920"
+  },
+  {
+    "id": 16,
+    "categoria": "Tecnologia",
+    "nombre": "Pantalla",
+    "descripcion": "pantallaprofesional",
+    "precio": 2800000,
+    "disponibilidad": true,
+    "cantidad": 15,
+    "fotografia": "https://http2.mlstatic.com/D_NQ_NP_2X_614542-MCO45532069865_042021-F.webp"
+  },
+  {
+    "id": 17,
+    "categoria": "Tecnologia",
+    "nombre": "Parlantes",
+    "descripcion": "parlantes profesional",
+    "precio": 175000,
+    "disponibilidad": true,
+    "cantidad": 22,
+    "fotografia": "https://http2.mlstatic.com/D_NQ_NP_2X_873989-MCO45141057244_032021-F.webp"
+  },
+  {
+    "id": 18,
+    "categoria": "Tecnologia",
+    "nombre": "Microfono",
+    "descripcion": "microfono profesional",
+    "precio": 20000,
+    "disponibilidad": true,
+    "cantidad": 50,
+    "fotografia": "https://http2.mlstatic.com/D_NQ_NP_2X_743222-MLA46166063789_052021-F.webp"
+  },
+  {
+    "id": 19,
+    "categoria": "Tecnologia",
+    "nombre": "Memoria usa 64gb",
+    "descripcion": "memoria usb profesional",
+    "precio": 25000,
+    "disponibilidad": true,
+    "cantidad": 23,
+    "fotografia": "https://http2.mlstatic.com/D_NQ_NP_2X_620836-MCO31536826791_072019-F.webp"
+  },
+  {
+    "id": 20,
+    "categoria": "Tecnologia",
+    "nombre": "Memoria usa 32gb",
+    "descripcion": "memoria usb profesional",
+    "precio": 15000,
+    "disponibilidad": true,
+    "cantidad": 10,
+    "fotografia": "https://http2.mlstatic.com/D_NQ_NP_2X_866487-MCO44155600861_112020-F.webp"
+  }
+]
